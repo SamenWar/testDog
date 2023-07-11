@@ -1,0 +1,16 @@
+{
+    "name": "samen/test-dog",
+    "autoload": {
+        "psr-4": {
+            "Domains\\TestDog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Simon Prakhin"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
